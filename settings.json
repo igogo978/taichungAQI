@@ -1,0 +1,8 @@
+{
+	"epaURL" : "http://opendata2.epa.gov.tw/AQI.json",
+	"taichungURL" : "http://taqm.epb.taichung.gov.tw/TQAMNEWAQITABLE.ASPX",
+	"siteName" : "梧棲",
+	"alarm" : 51,
+	"描述" : "0-50綠色,51-100黃色,101-150橘色,151-200紅色,201-300紫色,301-500暗紅色",
+	"version" : "20191008"
+}
